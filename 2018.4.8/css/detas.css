@@ -1,0 +1,22 @@
+.notice{
+	height: 0.82rem;
+	width: 6.2rem;
+	margin:0 auto;
+	text-align: left;
+	font-size: 0.3rem;
+	line-height: 0.82rem;
+	color: #333;
+}
+.inbl{display: inline-block;float: right;line-height: 0.85rem;}
+.shopSum{
+	height: 1.3rem;
+	padding: 0 0.2rem;
+	border-bottom:0.01rem solid #e5e5e5;
+	font-size: 0.28rem;
+	color:#333;}
+.shopSum>div{
+	height: 0.65rem;
+	line-height: 0.65rem;
+}
+.leftt{float: left;}
+.riggg{float: right;color: #999;}

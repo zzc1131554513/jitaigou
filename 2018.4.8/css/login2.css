@@ -1,0 +1,128 @@
+*{margin:0;padding:0;}
+html,body{height: 100%;}
+a{text-decoration: none;}
+body{
+	background: url("../img/login2.jpg")no-repeat;
+	background-size: 100% 100%;
+	padding-top: 0.01rem;
+}
+.logo{
+	width: 3.48rem;
+	height: 0.86rem;
+	margin:0 auto;
+	margin-top:0.7rem;
+	font-size: 0;
+}
+.logo img{
+	width: 3.48rem;
+	height: 0.86rem;
+}
+.ttt{
+	font-size: 0.3rem;
+	color: #fff;
+	text-align: center;
+	margin-top:0.2rem;
+}
+.login{
+	width: 6.24rem;
+	height: 6.24rem;
+	margin:0 auto;
+	margin-top:0.4rem;
+	background: #fff;
+	border-radius: 0.1rem;
+	box-shadow: 0px 0px 10px #ccc;
+}
+.login p{
+	height: 0.8rem;
+	line-height: 0.8rem;
+	font-size: 0.4rem;
+	color: #808080;
+	text-align: center;
+}
+.inp{
+	width: 5.12rem;
+	margin:0 auto;
+	margin-top:0.6rem;
+}
+.inp>div{
+	height: 0.9rem;
+	border-bottom:1px solid #dcdcdc;
+}
+.jl{
+	float: left;
+	height: 0.9rem;
+	width: 0.25rem;
+	margin-left: 0.2rem;
+}
+.jl img{
+	float: left;
+	margin-top:0.2rem;
+	width: 0.25rem;
+	height: 0.48rem;
+}
+.jls{
+	float: left;
+	height: 0.9rem;
+	width: 0.3rem;
+	margin-left: 0.2rem;
+}
+.jls img{
+	float: left;
+	margin-top:0.2rem;
+	width: 0.3rem;
+	height: 0.48rem;
+}
+.user{
+	float:left;
+	margin-left: 0.4rem;
+	width: 4.1rem;
+	height: 0.9rem;
+	font-size: 0;
+}
+.user input{
+	width: 4rem;
+	height: 0.85rem;
+	line-height: 1rem;
+	border:none;
+	outline: none;
+	background: #fff;
+	color: #808080;
+	font-size: 0.28rem;
+}
+.login h5{
+	font-size: 0.28rem;
+	color: #808080;
+	text-align: right;
+	margin-top:0.3rem;
+}
+.inp>div.btn{
+	height: 0.8rem;
+	background:#eb702d;
+	border-radius: 0.1rem;
+	margin-top:0.5rem;
+	line-height: 0.8rem;
+	text-align: center;
+	font-size: 0.36rem;
+	color: #fff;
+}
+.res{
+	font-size: 0;
+	text-align: center;
+	margin-top:0.4rem;
+	margin-bottom: 0.3rem;
+}
+.inp>div.res{border:none;}
+.res a{
+	color: #333;
+	font-size: 0.28rem;
+}
+.jingc{
+	width: 3.1rem;
+	height: 0.95rem;
+	margin:0 auto;
+}
+.jingc img{
+	width: 3.1rem;
+	height: 0.95rem;
+	margin-top: 0.71rem;
+}

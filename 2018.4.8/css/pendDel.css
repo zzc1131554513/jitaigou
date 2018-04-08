@@ -1,0 +1,174 @@
+.head{
+	position: fixed;
+	top:0;left:0;
+	width: 100%;
+	height: 0.88rem;
+	background: #eb702d;
+}
+.header{
+	width:7.1rem;
+	height: 0.88rem;
+	line-height: 0.88rem;
+	margin:0 auto; 
+	text-align: center;
+	color: #fff;
+	font-size: 0.36rem;
+}.header span{
+	display: inline-block;
+	float: left;
+	width: 0.2rem;
+	height: 0.88rem;
+}
+.header span img{
+	width: 0.2rem;
+	height: 0.35rem;
+}
+.head-meun{
+	position: fixed;
+	top:0.88rem;left: 0;
+	width: 100%;
+	height: 0.69rem;
+	background: #fff;
+}
+.head-meun ul li{
+	float: left;
+	width: 20%;
+	height: 0.69rem;
+	line-height: 0.69rem;
+	text-align: center;
+}
+.head-meun ul li a{
+	display: block;
+	width: 1.17rem;
+	height: 0.56rem;
+	margin:0 auto;
+	color: #999;
+	font-size: 0.24rem;
+}
+.head-meun ul li.dex a{
+	border-bottom: 0.04rem solid #eb702d;
+	color: #eb702d;
+}
+.list{
+	margin-top: 1.57rem;
+	padding-bottom:0.98rem; 
+}
+.list-tit{
+	padding-right: 0.2rem;
+	text-align: right;
+	font-size: 0.3rem;
+	line-height: 0.6rem;
+	color:#4c4c4c;
+}
+.listEach{
+	padding:0.1rem 0.2rem;
+	background: #fff;
+}
+.le-tit{
+	font-size: 0.28rem;
+	color: #999;
+	height: 0.57rem;
+	line-height:0.57rem;
+}
+.le-tit .state{
+	float: right;
+}
+.deta{
+	height: 2.01rem;
+}
+.detaImg{
+	width: 2.01rem;
+	height: 2.01rem;
+	float: left;
+}
+.detaImg img{
+	width: 100%;
+	height: 100%;
+}
+.detaR{
+	width: 4.9rem;
+	height: 2.01rem;
+	float: right;
+}
+.detaRtit{
+	font-size: 0;
+	width: 4.5rem;
+}
+.where{
+	font-size: 0.16rem;
+	display: inline-block;
+	padding:0.03rem 0.06rem;
+	border:0.02rem solid #eb702d;
+	border-radius: 0.02rem;
+	color: #eb702d;
+	line-height: 0.24rem;
+	text-align: center;
+}
+.lable{
+	margin-left: 0.22rem;
+	font-size: 0.28rem;
+	color: #000;
+}
+.litle{
+	height: 0.64rem;
+	margin:0.1rem 0;
+}
+.litleL{
+	float: left;
+	width: 2.8rem;
+	height: 0.64rem;
+	font-size: 0.18rem;
+	color: #b6b6b6;
+}
+.litleL>div{
+	height: 0.32rem;
+}
+.guig,.shux{
+	float: left;
+	width: 1.3rem;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.yunf,.shuif{
+	float: left;
+	width: 1.2rem;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.shux,.shuif{margin-left: 0.04rem}
+.litleR{
+	float: right;
+	width: 1.3rem;
+	height: 0.64rem;
+}
+.litR-up,.litR-down{
+	height: 0.3rem;
+	font-size: 0.3rem;
+	color: #b6b6b6;
+	text-align: right;
+}
+.litR-up span{font-size: 0.2rem;}
+.total{
+	font-size: 0.3rem;
+	color: #999;
+}
+.total span{color: #de0000;}
+.order{overflow: hidden;margin-top:0.05rem;}
+.orderL{
+	float:left;
+	font-size: 0.24rem;
+	color: #999;
+}
+.orderR{
+	float:right;
+	width: 1.75rem;
+	height: 0.62rem;
+	background: #eb702d;
+	border-radius:0.05rem;
+	line-height: 0.62rem;
+	text-align: center;
+	font-size: 0.3rem;
+}
+.orderR a{color: #fff;}

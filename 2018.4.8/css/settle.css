@@ -1,0 +1,172 @@
+*{margin:0;padding:0;font-family:'Microsoft YaHei';}
+body{background: #f8f8f8;}
+li{list-style: none;}
+a{text-decoration: none;}
+.lef{float: left;}
+.rig{float: right;}
+.head{
+	height: 0.88rem;
+	background:#eb702d; 
+	line-height: 0.88rem;
+	color:#fff;
+	text-align: center;
+	font-size: 0.36rem;
+}
+.notice{
+	font-size:0.22rem;
+	padding: 0.1rem;
+	color: #df2525;
+	border-bottom:0.01rem solid #e5e5e5;
+	text-align: center;
+}
+.didi{
+	display: inline-block;
+	width: 0.21rem;
+	height: 0.24rem;
+}
+.didi img{
+	width: 0.21rem;
+	height: 0.24rem;
+}
+.xx-up,.xx-down{
+	width: 6.2rem;
+	height: 0.62rem;
+	line-height: 0.62rem;
+	margin:0 auto;
+	font-size: 0.28rem;
+	color: #333;
+}
+.xx-up{
+	font-size: 0.3rem;
+}
+.hr{
+	height: 0.1rem;
+	font-size: 0;
+}
+.hr img{
+	width: 100%;
+	height: 0.1rem;
+}
+.galy{
+	width: 100%;
+	height: 0.2rem;
+	background:#e5e5e5; 
+}
+
+.listEach{
+	padding:0.1rem 0.2rem;
+	background: #fff;
+	border:0.01rem solid #e5e5e5;
+}
+.le-tit{
+	font-size: 0.28rem;
+	color: #999;
+	height: 0.57rem;
+	line-height:0.57rem;
+}
+.le-tit .state{
+	float: right;
+}
+.deta{
+	height: 2.01rem;
+}
+.detaImg{
+	width: 2.01rem;
+	height: 2.01rem;
+	float: left;
+}
+.detaImg img{
+	width: 100%;
+	height: 100%;
+}
+.detaR{
+	width: 4.9rem;
+	height: 2.01rem;
+	float: right;
+}
+.detaRtit{
+	font-size: 0;
+	width: 4.5rem;
+}
+.where{
+	font-size: 0.16rem;
+	display: inline-block;
+	padding:0.03rem 0.06rem;
+	border:0.02rem solid #eb702d;
+	border-radius: 0.02rem;
+	color: #eb702d;
+	line-height: 0.24rem;
+	text-align: center;
+}
+.lable{
+	margin-left: 0.22rem;
+	font-size: 0.28rem;
+	color: #000;
+}
+.litle{
+	height: 0.64rem;
+	margin:0.1rem 0;
+}
+.litleL{
+	float: left;
+	width: 2.8rem;
+	height: 0.64rem;
+	font-size: 0.18rem;
+	color: #b6b6b6;
+}
+.litleL>div{
+	height: 0.32rem;
+}
+.guig,.shux{
+	float: left;
+	width: 1.3rem;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.yunf,.shuif{
+	float: left;
+	width: 1.2rem;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.shux,.shuif{margin-left: 0.04rem}
+.litleR{
+	float: right;
+	width: 1.3rem;
+	height: 0.64rem;
+}
+.litR-up,.litR-down{
+	height: 0.3rem;
+	font-size: 0.3rem;
+	color: #b6b6b6;
+	text-align: right;
+}
+.total{
+	text-align: right;
+	font-size: 0.2rem;
+	color: #999;
+	color: #de0000;
+}
+.total span{font-size: 0.3rem;}
+.ls{
+	padding: 0 0.2rem;
+	border-bottom:0.01rem solid #e5e5e5;
+	font-size: 0.28rem;
+	color:#333;
+	height: 0.91rem;
+	line-height: 0.9rem;
+}
+.btn{
+	width: 4.58rem;
+	height: 0.98rem;
+	text-align: center;
+	line-height: 0.98rem;
+	color: #fff;
+	font-size: 0.36rem;
+	border-radius: 0.1rem;
+	background:#eb702d;
+	margin:0 auto;
+	margin-top: 1rem;
+}
